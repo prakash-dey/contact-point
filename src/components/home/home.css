@@ -1,0 +1,10 @@
+.home-cont{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    /* border: 1px solid black; */
+    height: 80vh;
+    gap: 15rem;
+    width: 100vw;
+    flex-wrap: wrap;
+}
